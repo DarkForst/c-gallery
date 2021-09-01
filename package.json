@@ -1,0 +1,13 @@
+{
+  "name": "c-gallery",
+  "version": "0.0.1",
+  "description": "自定义组件库",
+  "main": "index.js",
+  "author": "xcw",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^2.56.3",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
